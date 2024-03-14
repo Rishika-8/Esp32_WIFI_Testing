@@ -1,8 +1,8 @@
 ## About this Project 👋
 Yet Another handheld Device with WIFI Information Gathering and Some Tricks.
-Main purpose of this Project is just to Get Better At Programming in general and Get familier with Esp/Arduino Micro-Controller.
-At this stage pls consider mySelf as NOOB and please correct my mistake and make this Project all together and consider changes frequently
-Lets keep in touch if anyone want to help me or have some other cool idea or anyone wanna teach me i would love to learn thing related to this projects
+Main purpose of this Project is just to get better at programming in general and get familier with Esp/Arduino Micro-Controller.
+At this stage please consider me as a Newbie and feel free to correct my mistake and make this Project all together and consider changes frequently.
+Lets keep in touch if anyone want to help me or have some other cool idea or anyone wanna teach me, I would love to learn new things related to this projects.
 ## Inspiration / Credits 👏
 - [esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
 - [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
@@ -68,8 +68,5 @@ Lets keep in touch if anyone want to help me or have some other cool idea or any
 - ⏰ **Temp/Clock** (still dont have Plans for Implemented)
   - [ ] Desk Clock With RealTime Temp, Humidity, Air Pressure
 
-<a href="https://instagram.com/ritesh__pradhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh__pradhan_" height="30" width="40" /></a>
-
-<a href="https://www.buymeacoffee.com/riteshprado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
